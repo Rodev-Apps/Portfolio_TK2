@@ -8,7 +8,7 @@ Welcome to my portfolio. The advent of Web Development has changed the landscape
 This web page is designed to provide an easy but effective way to access my CV. Its simplicity and dynamism gives it an irresistible appeal to like-minded Web Developers wanting to showcase themselves.  I hope that this digital representation of my profile, skills, qualifications, and experience meets your satisfaction as you peruse through its contents. Although it is just a mere tip of the iceberg, I am quietly confident that it will go some way to convince you of the depth of talent, creativity, passion, and hard work which are my core strengths.
 
 ## Website Link
-[Rodevs Portal](https://rodev-apps.github.io/Protfolio_TK2/)
+[Rodevs Portal](https://rodev-apps.github.io/Portfolio_TK2/)
 
 ## Feedback
 Should you require further information, please check my social media links and feel free to reach out or drop a comment here if you have any questions, queries or suggestions. Thanks for stopping by.
